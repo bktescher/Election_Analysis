@@ -17,6 +17,8 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 The analysis of the election revealed:
 
 - There were 369,711 total votes cast.
+
+###### Candidate Summary
 - The candidates were:
   - Charles Stockham
   - Raymon Doane
