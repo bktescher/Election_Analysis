@@ -52,6 +52,7 @@ The analysis of the election revealed:
 ## Summary
 
 Overall, overall this was a very successful campaign (pun intended).  The script utlized in this exercise could be modified for wider analysis of:
+
   -All counties in the state of Colorado.
   -All election races, Local and National, in the state of Colorado.
   -Presidential races
